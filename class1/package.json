@@ -1,0 +1,22 @@
+{
+  "name": "class1",
+  "version": "1.0.0",
+  "description": "Introduction, Clean Code, Refactoring, and Code Smells and Refactoring techniques. <https://github.com/rodrigobranas/cccat7_refactoring>",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^28.1.4",
+    "jest": "^28.1.2",
+    "ts-jest": "^28.0.5",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}
